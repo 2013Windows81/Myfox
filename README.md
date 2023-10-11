@@ -9,7 +9,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/2013Windows8.1/MyFox/total) ![Stargazers](https://img.shields.io/github/stars/2013Windows8.1/MyFox?style=social) 
+![Downloads](https://img.shields.io/github/downloads/2013Windows81/MyFox/total) ![Stargazers](https://img.shields.io/github/stars/2013Windows81/MyFox?style=social) 
 
 ## About The Project
 
