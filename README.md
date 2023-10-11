@@ -34,4 +34,6 @@ Before We start, You need mypal latest stable versions which means Mypal V29.3.0
 
 Press the "Open Folder" button next to it and it should open the directory to the profile you're currently using. And you can copy the files inside /profile to it.
 
-5.  Copy the `Driverroot` folder to the `C:` drive
+5.  Copy Inside the `Driverroot` folder to the `C:` drive
+
+6.  After that launch mypal browser and if you see "mypal" button at the top right, Click the button and go to the Preferences, and click the menu bar and you're good to go...
