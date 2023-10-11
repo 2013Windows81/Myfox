@@ -1,0 +1,13 @@
+
+
+
+#brandLogo {
+  height: 192px;
+  width: 192px;
+  margin: 22px auto 31px;
+  background-image:  url('firefox.png')!important;
+  background-size: 192px auto;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
